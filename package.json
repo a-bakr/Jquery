@@ -1,0 +1,14 @@
+{
+  "name": "jquery_course",
+  "version": "1.0.0",
+  "description": "learning jquery",
+  "main": "jquery-3.0.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdallah",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
